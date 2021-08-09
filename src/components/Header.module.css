@@ -1,0 +1,14 @@
+.header_container{
+    background-color: rgb(1, 124, 202);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .main_title {
+    font-size: 2rem;
+    color: white;
+    margin: 0px;
+  }
